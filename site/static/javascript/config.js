@@ -1,0 +1,1 @@
+var SubDomain = 'umarstore'; var SiteID = 'C350AC0C-EA35-4571-B605-D8A0E52F01F4'; var host = 'https://api.eraconnect.net';
